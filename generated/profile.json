@@ -1,0 +1,188 @@
+{
+  "basic": {
+    "name": "森田 一平",
+    "nameKana": "もりた いっぺい",
+    "title": "フルスタックフリーランスエンジニア",
+    "catchphrase": "このサイトはAgenticCoding活用して作成しました",
+    "description": "10年以上Webとバックエンドに向き合ってきたフルスタックエンジニアです。\n大企業クライアントでインフラエンジニアとして活躍してきました。\nメイン技術はPythonですが、解決課題に応じて適したプログラミング言語やツールを扱います。\n",
+    "location": "大阪府",
+    "yearsOfExperience": 10
+  },
+  "contact": {
+    "github": "https://github.com/m-ippei",
+    "twitter": "https://x.com/ipm_eng",
+    "googleFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4JpcwRgUWMKzhVzUgSkO93Zdhxf0GgECCMUDNehDcay5mZw/viewform?embedded=true"
+  },
+  "skills": [
+    {
+      "category": "フロント",
+      "items": [
+        {
+          "name": "React (with Deno Vite TailwindCSS)",
+          "level": 3,
+          "years": 1,
+          "description": "このWebサイトもこの技術スタックで作成"
+        }
+      ]
+    },
+    {
+      "category": "バックエンド",
+      "items": [
+        {
+          "name": "Python",
+          "level": 5,
+          "years": 3,
+          "description": "業務用内製ツールの開発"
+        },
+        {
+          "name": "FAST API",
+          "level": 4,
+          "years": 3,
+          "description": "REST APIサーバー開発"
+        }
+      ]
+    },
+    {
+      "category": "クラウド",
+      "items": [
+        {
+          "name": "Docker/Kubernetes",
+          "level": 3,
+          "years": 1,
+          "description": "構築実証済み"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ネットワークインフラ管理システムの開発保守",
+      "period": "2021/08 - 2024/03",
+      "client": "某大手通信企業",
+      "role": "DevOpsエンジニア",
+      "teamSize": 4,
+      "technologies": [
+        "RHEL",
+        "vCenter",
+        "PostgreSQL",
+        "Python",
+        "FastAPI",
+        "Vue"
+      ],
+      "description": "5G通信向けネットワーク管理システムの新規開発。社内導入に向けDevOpsの実施。",
+      "achievements": [
+        "開発停滞状態から脱出",
+        "ツール開発によって月当たりのエンジニアリソース3名削減"
+      ],
+      "challenges": "大量のデータ処理が必要だったため、Pythonによるデータ処理を実行",
+      "url": "https://www.docswell.com/s/m-ippei/K37Q81-2025-10-14-160746"
+    }
+  ],
+  "workConditions": {
+    "availability": {
+      "hoursPerWeek": 16,
+      "flexibleHours": true,
+      "remote": true,
+      "onsite": true,
+      "hybrid": true
+    },
+    "contract": {
+      "minPeriod": "1ヶ月",
+      "preferredRate": "80万～",
+      "paymentTerms": "相談可"
+    },
+    "preferences": {
+      "industries": [
+        "AI",
+        "スタートアップ"
+      ],
+      "projectTypes": [
+        "新規開発",
+        "リアーキテクチャ"
+      ],
+      "notInterested": [
+        "保守のみ"
+      ]
+    }
+  },
+  "strengths": [
+    {
+      "title": "学習 Ⅰ",
+      "description": "高速に理解します",
+      "examples": [
+        "望んでいることを実現します"
+      ]
+    },
+    {
+      "title": "学習 Ⅱ",
+      "description": "高速にキャッチアップします",
+      "examples": [
+        "調査・本質チェック・手を動かす・実践・本番投入のサイクルが早い AI活用でさらに加速"
+      ]
+    },
+    {
+      "title": "基礎エンジニアリング能力",
+      "description": "好奇心旺盛かつ技術が好きなのでエンジニアリング能力には自信があります",
+      "examples": [
+        "技術イベントや勉強会への参加、登壇、展示会への参加、大量の技術書購入および学習、最近は海外リソースを活用、英語○"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "FastAPI & Backend Dev",
+      "issuer": "O'Reilly Media",
+      "date": "2026-01",
+      "description": "PythonのREST API開発およびバックエンド開発に対応",
+      "url": "https://www.credly.com/badges/0839e772-fc2c-4a60-b4a8-8b2f76b2c825"
+    },
+    {
+      "name": "React Complete Guide",
+      "issuer": "O'Reilly Media",
+      "date": "2025-12",
+      "description": "React Projectに対応",
+      "url": "https://www.credly.com/badges/9e23905c-de4a-4e1d-9b39-668ad4de4695"
+    },
+    {
+      "name": "Docker & K8s Masterclass",
+      "issuer": "O'Reilly Media",
+      "date": "2025-12",
+      "description": "WSL検証およびVPS環境にCloud環境無しで構築実証済み、Gateway APIにも対応",
+      "url": "https://www.credly.com/badges/8aaad78f-f40d-4cb5-9b81-35c186dd1354"
+    },
+    {
+      "name": "Learn to Code with Rust",
+      "issuer": "O'Reilly Media",
+      "date": "2025-11",
+      "description": "Rust開発に対応",
+      "url": "https://www.credly.com/badges/b98b676b-bbf2-4b56-93ad-4dd82e801028"
+    }
+  ],
+  "faq": [
+    {
+      "question": "リモートワークは可能ですか?",
+      "answer": "はい、完全リモートでの対応が可能です。必要に応じて定期的な出社も対応します。"
+    },
+    {
+      "question": "週3日〜4日の稼働は可能ですか?",
+      "answer": "案件内容によっては対応可能です。まずはご相談ください。"
+    },
+    {
+      "question": "技術顧問としての契約は可能ですか?",
+      "answer": "はい、月数時間からの技術顧問契約も承っております。"
+    },
+    {
+      "question": "どのような案件を希望していますか?",
+      "answer": "新規プロダクト開発や、既存システムのモダナイゼーションを希望しています。"
+    },
+    {
+      "question": "急な稼働開始は可能ですか?",
+      "answer": "現在の契約状況によりますが、2週間〜1ヶ月程度で調整可能です。"
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-04",
+    "version": "1.0.0",
+    "language": "ja"
+  }
+}
