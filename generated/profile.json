@@ -183,7 +183,7 @@
   "seo": {
     "title": "森田一平 - フルスタックエンジニア | Python/AI バックエンド",
     "description": "10年以上の開発経験を持つフルスタックエンジニア。Python/FastAPIを軸に、フロントもバックエンドもカバーしつつ、スタートアップから大企業まで献身的に支援しています。",
-    "ogImage": "/og-image.png",
+    "ogImage": "https://engineer.morita-ippei.com/og-image.png",
     "twitterCard": "summary_large_image",
     "canonicalUrl": "https://engineer.morita-ippei.com",
     "keywords": [
