@@ -183,10 +183,9 @@
   ],
   "seo": {
     "title": "森田一平 - フルスタックエンジニア | Python/AI バックエンド",
-    "description": "10年以上の経験を持つフルスタックエンジニア。Python/FastAPIを軸に、フロントもバックエンドもカバーしつつ、スタートアップから大企業まで献身的に支援しています。",
+    "description": "10年以上の開発経験を持つフルスタックエンジニア。Python/FastAPIを軸に、フロントもバックエンドもカバーしつつ、スタートアップから大企業まで献身的に支援しています。",
     "ogImage": "/og-image.png",
     "twitterCard": "summary_large_image",
-    "twitterHandle": "@ipm_image",
     "canonicalUrl": "https://morita-ippei.com",
     "keywords": [
       "フリーランスエンジニア",
@@ -195,7 +194,14 @@
       "Kubernetes",
       "Deno",
       "大阪"
-    ]
+    ],
+    "ogType": "website",
+    "ogLocale": "ja_JP",
+    "ogSiteName": "森田一平 - ホームページ",
+    "twitterSite": "@ipm_eng",
+    "twitterCreator": "@ipm_eng",
+    "author": "森田一平",
+    "themeColor": "#3B82F6"
   },
   "meta": {
     "lastUpdated": "2026-02-04",
