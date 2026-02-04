@@ -181,6 +181,22 @@
       "answer": "現在の契約状況によりますが、2週間〜1ヶ月程度で調整可能です。"
     }
   ],
+  "seo": {
+    "title": "森田一平 - フルスタックエンジニア | Python/AI バックエンド",
+    "description": "10年以上の経験を持つフルスタックエンジニア。Python/FastAPIを軸に、フロントもバックエンドもカバーしつつ、スタートアップから大企業まで献身的に支援しています。",
+    "ogImage": "/og-image.png",
+    "twitterCard": "summary_large_image",
+    "twitterHandle": "@ipm_image",
+    "canonicalUrl": "https://morita-ippei.com",
+    "keywords": [
+      "フリーランスエンジニア",
+      "フルスタック開発",
+      "Python",
+      "Kubernetes",
+      "Deno",
+      "大阪"
+    ]
+  },
   "meta": {
     "lastUpdated": "2026-02-04",
     "version": "1.0.0",
