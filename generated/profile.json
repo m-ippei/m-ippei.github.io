@@ -80,7 +80,7 @@
   ],
   "workConditions": {
     "availability": {
-      "hoursPerWeek": 16,
+      "hoursPerWeek": 24,
       "flexibleHours": true,
       "remote": true,
       "onsite": true,
@@ -88,7 +88,7 @@
     },
     "contract": {
       "minPeriod": "1ヶ月",
-      "preferredRate": "80万～",
+      "preferredRate": "月80万円～ 時間5000円～",
       "paymentTerms": "相談可"
     },
     "preferences": {
@@ -101,7 +101,7 @@
         "リアーキテクチャ"
       ],
       "notInterested": [
-        "スマホネイティブのみ"
+        "スマホネイティブ特化"
       ]
     }
   },
@@ -160,24 +160,32 @@
   ],
   "faq": [
     {
-      "question": "リモートワークは可能ですか?",
-      "answer": "はい、完全リモートでの対応が可能です。必要に応じて定期的な出社も対応します。"
+      "question": "得意業務を教えてください。",
+      "answer": "サーバー設定、環境構築、環境エラー分析、データ分析・変換"
     },
     {
-      "question": "週3日〜4日の稼働は可能ですか?",
-      "answer": "案件内容によっては対応可能です。まずはご相談ください。"
+      "question": "対応する主なプログラミング言語はなんですか？",
+      "answer": "Python, TypeScript(JavaScript), Rust, Go"
     },
     {
-      "question": "技術顧問としての契約は可能ですか?",
-      "answer": "はい、月数時間からの技術顧問契約も承っております。"
+      "question": "対応しないプログラミング言語はありますか？",
+      "answer": "Ruby, PHP, Java, Kotlin, Swift, C#です。"
     },
     {
-      "question": "どのような案件を希望していますか?",
-      "answer": "新規プロダクト開発や、既存システムのモダナイゼーションを希望しています。"
+      "question": "対応しないフレームワークはありますか？",
+      "answer": "Rails, Vue, Laraval, Flutter, Unity, Django, Springです。"
     },
     {
-      "question": "急な稼働開始は可能ですか?",
-      "answer": "現在の契約状況によりますが、2週間〜1ヶ月程度で調整可能です。"
+      "question": "現在キャッチアップ中の技術を教えてもらえますか？",
+      "answer": "AWS, Next.jsです。"
+    },
+    {
+      "question": "稼働時間目安について詳しく教えてください。",
+      "answer": "基本週3日前後の想定ですが、案件次第で調整可能です。"
+    },
+    {
+      "question": "週4日～5日働くことは厳しいですか？",
+      "answer": "案件と契約内容次第となります。"
     }
   ],
   "seo": {
