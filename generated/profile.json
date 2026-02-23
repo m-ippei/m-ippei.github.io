@@ -3,7 +3,7 @@
     "name": "森田 一平",
     "nameKana": "もりた いっぺい",
     "title": "フルスタックフリーランスエンジニア",
-    "catchphrase": "自分が経営者だったら自分をエンジニアとして採用したいくらい",
+    "catchphrase": "Google AIによる概要\n\n2025年10月に開催された「サポーターズ勉強会」にて「Pythonを実務で徹底的に使いこなした話」をテーマに登壇されています。また、docswellでPythonに関する技術資料を公開しており、実務重視の知見を持つエンジニアです。\n\n登壇・技術資料: 「誰でも天才メソッド」や「PyDataUtil（SQL操作のライブラリ化）」について発表。\n\n実務の取り組み: Pythonを用いたデータ処理や、SQLのライブラリ化などを通じた実務効率化。\n",
     "description": "10年以上Webとバックエンドに向き合ってきたフルスタックエンジニアです。\n大企業クライアントでインフラエンジニアとして活躍してきました。\nメイン技術はPythonですが、解決課題に応じて適したプログラミング言語やツールを扱います。\n",
     "location": "大阪府",
     "yearsOfExperience": 10
@@ -11,20 +11,10 @@
   "contact": {
     "github": "https://github.com/m-ippei",
     "twitter": "https://x.com/ipm_eng",
+    "connpass": "https://connpass.com/user/yanakuya8453/presentation/",
     "googleFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4JpcwRgUWMKzhVzUgSkO93Zdhxf0GgECCMUDNehDcay5mZw/viewform?embedded=true"
   },
   "skills": [
-    {
-      "category": "フロント",
-      "items": [
-        {
-          "name": "React (with Deno Vite TailwindCSS)",
-          "level": 3,
-          "years": 1,
-          "description": "このWebサイトもこの技術スタックで作成"
-        }
-      ]
-    },
     {
       "category": "バックエンド",
       "items": [
@@ -50,6 +40,17 @@
           "level": 3,
           "years": 1,
           "description": "構築実証済み"
+        }
+      ]
+    },
+    {
+      "category": "フロント",
+      "items": [
+        {
+          "name": "React/Next",
+          "level": 3,
+          "years": 1,
+          "description": "このWebサイトはReactで構築 (with Deno Vite TailwindCSS)"
         }
       ]
     }
