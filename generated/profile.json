@@ -134,28 +134,35 @@
       "name": "FastAPI & Backend Dev",
       "issuer": "O'Reilly Media",
       "date": "2026-01",
-      "description": "PythonのREST API開発およびバックエンド開発に対応",
+      "description": "22時間+ PythonのREST API開発およびバックエンド開発に対応",
       "url": "https://www.credly.com/badges/0839e772-fc2c-4a60-b4a8-8b2f76b2c825"
     },
     {
       "name": "React Complete Guide",
       "issuer": "O'Reilly Media",
       "date": "2025-12",
-      "description": "React Projectに対応",
+      "description": "64時間+ 最新のReact Projectに対応 React19",
       "url": "https://www.credly.com/badges/9e23905c-de4a-4e1d-9b39-668ad4de4695"
+    },
+    {
+      "name": "NextJS Interview & E-commerce",
+      "issuer": "O'Reilly Media",
+      "date": "2026-02",
+      "description": "13時間+ 最新のNext Projectに対応 Next16",
+      "url": "https://www.credly.com/badges/40c02af5-4d7d-4fa9-8b3c-b160d4802abb"
     },
     {
       "name": "Docker & K8s Masterclass",
       "issuer": "O'Reilly Media",
       "date": "2025-12",
-      "description": "WSL検証およびVPS環境にCloud環境無しで構築実証済み、Gateway APIにも対応",
+      "description": "32時間+ WSL検証およびVPS環境にCloud環境無しで構築実証済み、Gateway APIにも対応",
       "url": "https://www.credly.com/badges/8aaad78f-f40d-4cb5-9b81-35c186dd1354"
     },
     {
       "name": "Learn to Code with Rust",
       "issuer": "O'Reilly Media",
       "date": "2025-11",
-      "description": "Rust開発に対応",
+      "description": "66時間+ Rust開発に対応",
       "url": "https://www.credly.com/badges/b98b676b-bbf2-4b56-93ad-4dd82e801028"
     }
   ],
