@@ -102,7 +102,7 @@
         "リアーキテクチャ"
       ],
       "notInterested": [
-        "スマホネイティブ特化"
+        "固定時間拘束型プロジェクト"
       ]
     }
   },
@@ -181,7 +181,7 @@
     },
     {
       "question": "対応しないフレームワークはありますか？",
-      "answer": "Rails, Vue, Laraval, Flutter, Unity, Django, Springです。"
+      "answer": "Rails, Vue, Laraval, Unity, Django, Springです。"
     },
     {
       "question": "現在キャッチアップ中の技術を教えてもらえますか？",
