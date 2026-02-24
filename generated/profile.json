@@ -11,7 +11,7 @@
   "contact": {
     "github": "https://github.com/m-ippei",
     "twitter": "https://x.com/ipm_eng",
-    "connpass": "https://connpass.com/user/yanakuya8453/presentation/",
+    "connpass": "https://connpass.com/user/yanakuya8453/",
     "googleFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4JpcwRgUWMKzhVzUgSkO93Zdhxf0GgECCMUDNehDcay5mZw/viewform?embedded=true"
   },
   "skills": [
@@ -77,6 +77,31 @@
       ],
       "challenges": "大量のデータ処理が必要だったため、Pythonによるデータ処理を実行",
       "url": "https://www.docswell.com/s/m-ippei/K37Q81-2025-10-14-160746"
+    }
+  ],
+  "workPatterns": [
+    {
+      "title": "Pythonの専門家として",
+      "description": "私は、Pythonの業務活用について一定の知見があります。\n大規模なデータを扱うのに困っている、業務自動化に困っている、という場合、私の経験が活きる可能性があります。\n詳しくは[参考リンクあり🌐↗]\n\n\n\n",
+      "url": "https://www.docswell.com/s/m-ippei/K37Q81-2025-10-14-160746"
+    },
+    {
+      "title": "DXの専門家として",
+      "description": "私は、技術的好奇心が強くかつ学習意欲が高いです。業界最先端の知見と実践を英語リソースで活用可能です。[参考リンクあり🌐↗]\nそして、IT業界とIT業界での就業経験を活かし、\nエンジニア目線で業務の分析とちょっとした改善で劇的な変化をもたらす一手を提供します。\n大規模にはやりたくない。でも、現場の疲弊を少しでも和らげたい。そんな苦しみに対し、簡単かつ効果的な手を打ちましょう！\n",
+      "url": "https://www.oreilly.com/search/skills/"
+    },
+    {
+      "title": "[New!] React/Next.js エンジニアとして",
+      "description": "現在、React/Next.jsの個人開発プロジェクトが進行中\nこのサイトもReactで作られています\nReact/Next.jsエンジニアが必要であれば、プロジェクト参画可能です\n\n\n\n\n"
+    },
+    {
+      "title": "勉強会の講師として",
+      "description": "私は、勉強会の講師登壇経験があります。\n希望のテーマ等あれば、そのテーマにて勉強会実施可能です。\n[開催実績リンクあり🌐↗]\n\n\n\n\n",
+      "url": "https://connpass.com/user/yanakuya8453/presentation/"
+    },
+    {
+      "title": "スポットエンジニアリングとして",
+      "description": "私は、今後のビジネス環境と技術動向を吟味し、ベンダーロックインフリーの技術資産を蓄積しています。\nこの技術選定をしたいけど、それを使えるエンジニアが社内にいない。\nこの技術を使いたいけど、育成にかけられるコストをかけられない。\nそんなときに、技術資産と応用学習能力に満ちた私を活用することで、すぐさまスポットエンジニアリングを発揮し、必要なエンジニアリング成果を即座に提供します。\n→環境構築、育成、実験的構築、プロトタイプ開発\n"
     }
   ],
   "workConditions": {
@@ -168,6 +193,10 @@
   ],
   "faq": [
     {
+      "question": "性格特性と強みを教えてください。",
+      "answer": "好奇心旺盛かつ問題解決思考です。ゆえに、状況に応じた戦略・手段構築と実践が強みです。"
+    },
+    {
       "question": "得意業務を教えてください。",
       "answer": "Webサービス構築、バックエンド、インフラ設定"
     },
@@ -181,11 +210,11 @@
     },
     {
       "question": "対応しないフレームワークはありますか？",
-      "answer": "Rails, Vue, Laraval, Unity, Django, Springです。"
+      "answer": "Rails, Vue, Laraval, Flutter, Unity, Django, Springです。"
     },
     {
       "question": "現在キャッチアップ中の技術を教えてもらえますか？",
-      "answer": "AWS, Next.jsです。"
+      "answer": "Next.js, AWS, Cloud Flare, React Nativeです。"
     },
     {
       "question": "稼働時間目安について詳しく教えてください。",
