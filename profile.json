@@ -50,7 +50,7 @@
           "name": "React/Next",
           "level": 3,
           "years": 1,
-          "description": "このWebサイトはReactで構築 (with Deno Vite TailwindCSS)"
+          "description": "このWebサイトはNext.jsで構築"
         }
       ]
     }
@@ -92,7 +92,7 @@
     },
     {
       "title": "✨[New!] React/Next.js エンジニアとして",
-      "description": "現在、React/Next.jsの個人開発プロジェクトが進行中\nこのサイトもReactで作られています\nReact/Next.jsエンジニアが必要であれば、プロジェクト参画可能です\n\n\n\n\n"
+      "description": "現在、React/Next.jsの個人開発プロジェクトが進行中\nこのサイトもReact/Next.jsで作られています\nReact/Next.jsエンジニアが必要であれば、プロジェクト参画可能です\n\n\n\n\n"
     },
     {
       "title": "📚勉強会の講師として",
@@ -225,31 +225,9 @@
       "answer": "案件と契約内容次第となります。"
     }
   ],
-  "seo": {
-    "title": "森田一平 - フルスタックエンジニア | Python/AI バックエンド",
-    "description": "10年以上の開発経験を持つフルスタックエンジニア。Python/FastAPIを軸に、フロントもバックエンドもカバーしつつ、スタートアップから大企業まで献身的に支援しています。",
-    "ogImage": "https://engineer.morita-ippei.com/og-image.png",
-    "twitterCard": "summary_large_image",
-    "canonicalUrl": "https://engineer.morita-ippei.com",
-    "keywords": [
-      "フリーランスエンジニア",
-      "フルスタック開発",
-      "Python",
-      "Kubernetes",
-      "Deno",
-      "大阪"
-    ],
-    "ogType": "website",
-    "ogLocale": "ja_JP",
-    "ogSiteName": "森田一平 - ホームページ",
-    "twitterSite": "@ipm_eng",
-    "twitterCreator": "@ipm_eng",
-    "author": "森田一平",
-    "themeColor": "#3B82F6"
-  },
   "meta": {
     "lastUpdated": "2026-02-04",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "language": "ja"
   }
 }
